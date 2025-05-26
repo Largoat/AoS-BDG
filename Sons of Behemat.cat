@@ -945,7 +945,7 @@
             </profile>
           </profiles>
         </selectionEntry>
-        <selectionEntry type="upgrade" import="true" name="Manskittle Mob" hidden="true" id="342d-444a-227c-34c3" publicationId="f894-7929-f79a-a269">
+        <selectionEntry type="upgrade" import="true" name="Manskittle Mob" hidden="false" id="342d-444a-227c-34c3" publicationId="f894-7929-f79a-a269">
           <constraints>
             <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="af3d-9d69-757a-41bf"/>
           </constraints>
@@ -972,7 +972,7 @@
             </modifier>
           </modifiers>
         </selectionEntry>
-        <selectionEntry type="upgrade" import="true" name="Big Toes" hidden="true" id="e7ee-a697-4858-15f4" publicationId="f894-7929-f79a-a269">
+        <selectionEntry type="upgrade" import="true" name="Big Toes" hidden="false" id="e7ee-a697-4858-15f4" publicationId="f894-7929-f79a-a269">
           <constraints>
             <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="4d81-e460-1f05-80a9"/>
           </constraints>
