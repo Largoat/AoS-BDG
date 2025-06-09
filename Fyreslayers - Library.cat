@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<catalogue library="true" id="c401-2e10-cae8-d7f1" name="Fyreslayers - Library" gameSystemId="e51d-b1a3-75fc-dc3g" gameSystemRevision="2" revision="4" battleScribeVersion="2.03" type="catalogue" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
+<catalogue library="true" id="c401-2e10-cae8-d7f1" name="Fyreslayers - Library" gameSystemId="e51d-b1a3-75fc-192d" gameSystemRevision="2" revision="4" battleScribeVersion="2.03" type="catalogue" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
   <sharedSelectionEntries>
     <selectionEntry type="unit" import="true" name="Auric Runesmiter on Magmadroth" hidden="false" id="268e-676d-c731-7d26" publicationId="693f-85d0-db98-543c">
       <categoryLinks>
@@ -2177,7 +2177,7 @@ Cover, Impassible, Obscuring**</description>
         </modifier>
       </modifiers>
     </selectionEntry>
-    <selectionEntry type="unit" import="true" name="Auric Runeson on Magmadroth (Scourge of Ghyran)" hidden="true" id="153d-5d1c-c0c6-54cc" publicationId="f894-7929-f79a-a269">
+    <selectionEntry type="unit" import="true" name="Auric Runeson on Magmadroth (Scourge of Ghyran)" hidden="false" id="153d-5d1c-c0c6-54cc" publicationId="f894-7929-f79a-a269">
       <categoryLinks>
         <categoryLink name="HERO" hidden="false" id="3334-9d72-4b6a-5f54" targetId="6e72-1656-d554-528a" primary="true"/>
         <categoryLink name="MONSTER" hidden="false" id="9b81-f41f-fed4-de22" targetId="6d54-625c-d063-13e2" primary="false"/>

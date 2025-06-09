@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<catalogue library="true" id="f864-1661-71bb-41bb" name="Lumineth Realm-lords - Library" gameSystemId="e51d-b1a3-75fc-dc3g" gameSystemRevision="2" revision="6" battleScribeVersion="2.03" type="catalogue" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
+<catalogue library="true" id="f864-1661-71bb-41bb" name="Lumineth Realm-lords - Library" gameSystemId="e51d-b1a3-75fc-192d" gameSystemRevision="2" revision="6" battleScribeVersion="2.03" type="catalogue" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
   <sharedSelectionEntries>
     <selectionEntry type="unit" import="true" name="Vanari Starshard Ballista" hidden="false" id="ac41-4a7-88c5-9ab2" publicationId="9ed1-cf74-eb97-dee2">
       <categoryLinks>
@@ -2910,7 +2910,7 @@ Cover, Impassible**</description>
         </modifier>
       </modifiers>
     </selectionEntry>
-    <selectionEntry type="unit" import="true" name="Vanari Bannerblade (Scourge of Ghyran)" hidden="true" id="eec0-758b-4528-e3b5" publicationId="f894-7929-f79a-a269">
+    <selectionEntry type="unit" import="true" name="Vanari Bannerblade (Scourge of Ghyran)" hidden="false" id="eec0-758b-4528-e3b5" publicationId="f894-7929-f79a-a269">
       <categoryLinks>
         <categoryLink name="HERO" hidden="false" id="f7b6-c6b8-44fc-bfac" targetId="6e72-1656-d554-528a" primary="true"/>
         <categoryLink name="ORDER" hidden="false" id="e55e-3ac0-5dcf-a6bf" targetId="ee22-3575-6590-25c" primary="false"/>
@@ -2983,7 +2983,7 @@ Cover, Impassible**</description>
         </modifier>
       </modifiers>
     </selectionEntry>
-    <selectionEntry type="unit" import="true" name="The Light of Eltharion (Scourge of Ghyran)" hidden="true" id="2f0e-de34-fd64-39a6" publicationId="f894-7929-f79a-a269">
+    <selectionEntry type="unit" import="true" name="The Light of Eltharion (Scourge of Ghyran)" hidden="false" id="2f0e-de34-fd64-39a6" publicationId="f894-7929-f79a-a269">
       <categoryLinks>
         <categoryLink name="UNIQUE" hidden="false" id="205e-70a6-b990-ebb6" targetId="72ce-2188-70bf-2dbd" primary="false"/>
         <categoryLink name="HERO" hidden="false" id="c3a8-7d9a-aeaf-a643" targetId="6e72-1656-d554-528a" primary="true"/>
