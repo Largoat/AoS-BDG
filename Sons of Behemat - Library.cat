@@ -1079,7 +1079,7 @@
         </selectionEntry>
       </selectionEntries>
     </selectionEntry>
-    <selectionEntry type="unit" import="true" name="Kraken-eater Mega-Gargant (Scourge of Ghyran)" hidden="true" id="b208-4dde-ccc5-04db" publicationId="b765-4747-cddc-385e">
+    <selectionEntry type="unit" import="true" name="Kraken-eater Mega-Gargant (Scourge of Ghyran)" hidden="false" id="b208-4dde-ccc5-04db" publicationId="b765-4747-cddc-385e">
       <entryLinks>
         <entryLink import="true" name="General" hidden="false" id="7222-96a9-9477-59e7" type="selectionEntry" targetId="a56b-952e-ad15-7868"/>
       </entryLinks>
