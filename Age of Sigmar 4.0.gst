@@ -9737,6 +9737,32 @@ Each part of this **^^Manifestation^^** is armed with **Tendrils of Light and S
         </modifier>
       </modifiers>
     </selectionEntry>
+<selectionEntry type="upgrade" import="false" name="Allow SoG" hidden="false" id="7e59-2237-4890-a81a">
+      <constraints>
+        <constraint type="max" value="1" field="selections" scope="roster" shared="true" id="ef2f-8b2e-0a27-0718"/>
+      </constraints>
+      <categoryLinks>
+        <categoryLink name="Configuration" hidden="false" id="c0a9-3014-a13a-8ee1" targetId="676-2b78-7bbf-ba1c" primary="true"/>
+      </categoryLinks>
+      <modifiers>
+        <modifier type="set" value="1" field="defaultAmount">
+          <conditionGroups>
+            <conditionGroup type="or">
+              <conditions>
+                <condition type="instanceOf" value="1" field="selections" scope="primary-catalogue" childId="26d8-61fd-4bf1-5323" shared="true"/>
+                <condition type="instanceOf" value="1" field="selections" scope="primary-catalogue" childId="a06d-4e09-7a23-05bf" shared="true"/>
+                <condition type="instanceOf" value="1" field="selections" scope="primary-catalogue" childId="72f8-da06-f04a-e271" shared="true"/>
+                <condition type="instanceOf" value="1" field="selections" scope="primary-catalogue" childId="e8c9-ac55-8289-416f" shared="true"/>
+                <condition type="instanceOf" value="1" field="selections" scope="primary-catalogue" childId="1bfb-7fa9-fe89-f491" shared="true"/>
+                <condition type="instanceOf" value="1" field="selections" scope="primary-catalogue" childId="704d-d7c8-b9a9-f8b6" shared="true"/>
+                <condition type="instanceOf" value="1" field="selections" scope="primary-catalogue" childId="6cc-9eb2-c5b4-2877" shared="true"/>
+                <condition type="instanceOf" value="1" field="selections" scope="primary-catalogue" childId="7acb-3141-6008-1c09" shared="true"/>
+              </conditions>
+            </conditionGroup>
+          </conditionGroups>
+        </modifier>
+      </modifiers>
+    </selectionEntry>
     <selectionEntry type="upgrade" import="true" name="Honour Guard" hidden="true" id="9225-2112-555f-5d8c">
       <categoryLinks>
         <categoryLink name="Reference" hidden="false" id="190b-a28d-cf2e-1d52" targetId="3360-1158-e879-9606" primary="true"/>
